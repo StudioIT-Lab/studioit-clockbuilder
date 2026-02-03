@@ -42,7 +42,7 @@ class studioitClockBuilder {
      * @param {number} fps - Frames per second.
      * @returns {studioitClockBuilder} The current clock instance (for chaining).
      */
-    setFps(fps) {
+    setFPS(fps) {
         this.fps = fps;
         return this;
     }
