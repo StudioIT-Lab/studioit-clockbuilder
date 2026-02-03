@@ -1,6 +1,6 @@
 {
     "name": "studioit-clockbuilder",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "description": "A lightweight, customizable JavaScript clock builder.",
     "main": "src/studioitClockBuilder.js",
     "type": "module",
