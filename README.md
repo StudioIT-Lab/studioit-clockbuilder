@@ -1,6 +1,6 @@
 # StudioIT Clock Builder
 
-![License](https://img.shields.io/npm/l/studioit-clockbuilder)
+[![License](https://img.shields.io/npm/l/studioit-clockbuilder)](https://github.com/StudioIT-Lab/studioit-clockbuilder/blob/main/LICENSE)
 
 A customizable, JavaScript clock library to create your own analog clocks.
 
