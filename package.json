@@ -1,0 +1,39 @@
+{
+    "name": "studioit-clockbuilder",
+    "version": "1.0.7",
+    "description": "A lightweight, customizable JavaScript clock builder.",
+    "main": "src/studioitClockBuilder.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"StudioIT Clock Builder: no tests yet\" && exit 0"
+    },
+    "keywords": [
+        "studioit",
+        "clock",
+        "javascript",
+        "clock-builder",
+        "animation",
+        "analog-clock"
+    ],
+    "author": "StudioIT Lab <lab@studioit.ch>",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/StudioIT-Lab/studioit-clockbuilder.git"
+    },
+    "files": [
+        "src",
+        "README.md",
+        "LICENSE"
+    ],
+    "exports": {
+        ".": "./src/studioitClockBuilder.js"
+    },
+    "engines": {
+        "node": ">=14"
+    },
+    "bugs": {
+        "url": "https://github.com/StudioIT-Lab/studioit-clockbuilder/issues"
+    },
+    "homepage": "https://github.com/StudioIT-Lab/studioit-clockbuilder#readme"
+}
