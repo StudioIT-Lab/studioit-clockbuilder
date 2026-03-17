@@ -1,6 +1,17 @@
 # Changelog
 
 All notable changes to this project will be documented in this file.
+
+## [2.1.4] - 2026-03-17
+
+### Fixed
+- **`publish-npm.yml` workflow**: Fixed errors in workflow for automatic npm publishing.
+
+## [2.1.3] - 2026-03-17
+
+### Added
+- **`publish-npm.yml` workflow**: Added workflow for automatic npm publishing.
+
 ## [2.1.1] - 2026-03-17
 
 ### Fixed
